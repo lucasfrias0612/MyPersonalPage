@@ -1,3 +1,2 @@
 # MyPersonalPage
-Mi página web personal
-[link](https://lucasfrias.com.ar "Lucas Frías Page")
+[Mi página web personal](https://lucasfrias.com.ar "Lucas Frías Page")
